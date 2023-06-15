@@ -1,0 +1,14 @@
+./defines.v
+./inst_rom.v
+./mem_wb.v
+./mem.v
+./ex_mem.v
+./ex.v
+./id_ex.v
+./id.v
+./regfile.v
+./if_id.v
+./pc_reg.v
+./openmips.v
+./openmips_min_sopc.v
+./openmips_min_sopc_tb.v
